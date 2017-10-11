@@ -1,10 +1,10 @@
 # willowbrook_hs
 Presentation for Willowbrook HS career day
 
-  CodeAcademy - https://www.codecademy.com
-  Coursera - https://www.coursera.org
-  Khan Academy - https://www.khanacademy.org
-  Github - https://github.com
-  Codepen - https://codepen.io
+  1. CodeAcademy - https://www.codecademy.com
+  2. Coursera - https://www.coursera.org
+  3. Khan Academy - https://www.khanacademy.org
+  4. Github - https://github.com
+  5. Codepen - https://codepen.io
 
 
